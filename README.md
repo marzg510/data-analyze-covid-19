@@ -3,10 +3,13 @@
 ## input data
 
 ### world
+
 - https://github.com/CSSEGISandData/COVID-19
 
 ### japan
+
 #### オープンデータ
+
 - https://www.mhlw.go.jp/stf/covid-19/open-data.html
 - 陽性者数
   - https://www.mhlw.go.jp/content/pcr_positive_daily.csv
@@ -16,11 +19,21 @@
   - https://www.mhlw.go.jp/content/severe_daily.csv
 
 #### 国内の発生状況など(グラフ)
+
   - https://www.mhlw.go.jp/stf/covid-19/kokunainohasseijoukyou.html
+
+#### 新型コロナウイルスのオープンデータサイト集
+
+  - https://rnavi.ndl.go.jp/research_guide/entry/post-1180.php
+
+#### COVID-19 感染予測 (日本版) google
+
+  - https://datastudio.google.com/u/0/reporting/8224d512-a76e-4d38-91c1-935ba119eb8f/page/ncZpB
 
 ## Events/News
 
 ### japan
+
   - 2021/4/20
     - 埼玉、千葉、神奈川、愛知に「まん延防止等重点措置」追加適用(4/20-5/11)
     - まん延防止等重点措置適用地域
@@ -89,6 +102,7 @@
     - 緊急事態措置を実施すべき区域:埼玉県、千葉県、東京都、神奈川県、大阪府、兵庫県及び福岡県
 
 #### 新型コロナウイルス感染症緊急事態宣言の概要
+
  - https://corona.go.jp/news/news_20200421_70.html
 
 ### world
