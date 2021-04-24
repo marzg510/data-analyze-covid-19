@@ -27,11 +27,12 @@
   - https://rnavi.ndl.go.jp/research_guide/entry/post-1180.php
 
 #### 都道府県
+
 - NHK
  - https://www3.nhk.or.jp/n-data/opendata/coronavirus/nhk_news_covid19_prefectures_daily_data.csv
 - 北海道
- - 「新型コロナウイルス感染症対策に関するオープンデータ項目定義書（Code for Japan）」に沿った形で情報をまとめた陽性患者属性データです。
-   - https://www.harp.lg.jp/opendata/dataset/1369/resource/3132/010006_hokkaido_covid19_patients.csv
+  - 「新型コロナウイルス感染症対策に関するオープンデータ項目定義書（Code for Japan）」に沿った形で情報をまとめた陽性患者属性データです。
+    - https://www.harp.lg.jp/opendata/dataset/1369/resource/3132/010006_hokkaido_covid19_patients.csv
  - 検査数、陽性患者数、現在患者数（軽症・中等症、重症）、死亡数、陰性確認済み数、陽性率、濃厚接触者、濃厚接触者以外
    - https://www.harp.lg.jp/opendata/dataset/1369/resource/2853/covid19_data.csv
  - 陽性患者属性
@@ -39,36 +40,36 @@
  - 陽性患者属性から算出した、日ごとの年代別累計、性別別累計です。
    - https://www.harp.lg.jp/opendata/dataset/1369/resource/2888/patients_age_sex.csv
 - 青森県
- - https://opendata.pref.aomori.lg.jp/dataset/1531.html
-  - crawl必要
+  - https://opendata.pref.aomori.lg.jp/dataset/1531.html
+    - crawl必要
 - 岩手県
- - 
+  - 
 - 宮城県
- - https://www.pref.miyagi.jp/site/covid-19/02.html
- - https://www.pref.miyagi.jp/uploaded/attachment/848282.xlsx
+  - https://www.pref.miyagi.jp/site/covid-19/02.html
+  - https://www.pref.miyagi.jp/uploaded/attachment/848282.xlsx
 - 秋田県
- - 
+  - 
 - 山形県
- - https://www.pref.yamagata.jp/090016/bosai/kochibou/kikikanri/covid19/shingata_corona.html
-  - crawl必要
+  - https://www.pref.yamagata.jp/090016/bosai/kochibou/kikikanri/covid19/shingata_corona.html
+    - crawl必要
 - 福島県
- - 福島県_新型コロナウイルス陽性患者属性
-   - http://www.pref.fukushima.lg.jp/w4/covid19/patients/
- - 福島県_新型コロナウイルス検査件数
-   - http://www.pref.fukushima.lg.jp/w4/covid19/test_count/
+  - 福島県_新型コロナウイルス陽性患者属性
+    - http://www.pref.fukushima.lg.jp/w4/covid19/patients/
+  - 福島県_新型コロナウイルス検査件数
+    - http://www.pref.fukushima.lg.jp/w4/covid19/test_count/
 - 茨城県
- - 
+  - 
 - 栃木県
- - http://www.pref.tochigi.lg.jp/e04/welfare/hoken-eisei/kansen/hp/coronakensahasseijyoukyou.html
- - http://www.pref.tochigi.lg.jp/e04/welfare/hoken-eisei/kansen/hp/documents/20210420hasseijoukyou.xlsx
- - http://www.pref.tochigi.lg.jp/e04/welfare/hoken-eisei/kansen/hp/documents/20210420kansenshasuu.xlsx
- - http://www.pref.tochigi.lg.jp/e04/welfare/hoken-eisei/kansen/hp/documents/20210420hasseijoukyou_kyojuuchibetsu.xlsx
+  - http://www.pref.tochigi.lg.jp/e04/welfare/hoken-eisei/kansen/hp/coronakensahasseijyoukyou.html
+  - http://www.pref.tochigi.lg.jp/e04/welfare/hoken-eisei/kansen/hp/documents/20210420hasseijoukyou.xlsx
+  - http://www.pref.tochigi.lg.jp/e04/welfare/hoken-eisei/kansen/hp/documents/20210420kansenshasuu.xlsx
+  - http://www.pref.tochigi.lg.jp/e04/welfare/hoken-eisei/kansen/hp/documents/20210420hasseijoukyou_kyojuuchibetsu.xlsx
 - 群馬県
- - 陽性患者数
-   - http://stopcovid19.pref.gunma.jp/csv/01kanja.csv
+  - 陽性患者数
+    - http://stopcovid19.pref.gunma.jp/csv/01kanja.csv
 - 埼玉県
- - https://opendata.pref.saitama.lg.jp/data/dataset/covid19-jokyo
-  - crawl必要
+  - https://opendata.pref.saitama.lg.jp/data/dataset/covid19-jokyo
+   - crawl必要
 - 千葉県
  - https://www.pref.chiba.lg.jp/shippei/press/2019/ncov-index.html
  - https://www.pref.chiba.lg.jp/shippei/press/2019/documents/0420kansensya.xlsx
