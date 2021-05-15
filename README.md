@@ -6,6 +6,9 @@
 
 - https://github.com/CSSEGISandData/COVID-19
 
+- 人口データ(国連）
+    - https://population.un.org/wpp/Download/Standard/Population/
+
 ### japan
 
 #### オープンデータ
