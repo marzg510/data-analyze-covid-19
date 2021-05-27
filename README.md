@@ -326,6 +326,7 @@
  - 
 - 京都府
 - 大阪府
+ - https://covid19-osaka.info/
 - 兵庫県
  - https://web.pref.hyogo.lg.jp/kf16/documents/yousei.xlsx
 - 奈良県
