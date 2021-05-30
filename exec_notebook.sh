@@ -1,5 +1,6 @@
 #!/bin/bash -x
 
+echo `date`
 #DEBUG=--debug
 jupyter nbconvert --to notebook --inplace --execute covid-19-jp-nhk.ipynb --ExecutePreprocessor.timeout=1800 --allow-errors $DEBUG
 jupyter nbconvert --to notebook --inplace --execute covid-19-jp-nhk-pref-latest.ipynb --ExecutePreprocessor.timeout=1800 --allow-errors $DEBUG
