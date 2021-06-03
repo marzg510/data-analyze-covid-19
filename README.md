@@ -387,3 +387,17 @@
   - https://datastudio.google.com/u/0/reporting/8224d512-a76e-4d38-91c1-935ba119eb8f/page/ncZpB
 
 
+####　データの利用に関する規約
+- NHK
+  - https://www3.nhk.or.jp/news/special/coronavirus/data/rules.html
+    - 新型コロナ関連の情報提供:NHK
+- e-Stat
+  - https://www.e-stat.go.jp/help
+    - 人口の情報提供:e-Stat
+
+python,pandas,matplotlibの勉強を兼ねて、新型コロナに関する
+最新データを可視化してます
+・新型コロナ関連の情報提供:NHK
+・人口の情報提供:e-Stat
+
+
