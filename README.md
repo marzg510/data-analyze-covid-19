@@ -468,3 +468,9 @@
 主な都道府県・主な国別の３月以降の新規感染者数の７日間移動平均です
 
 
+Visualize the latest data on COVID-19 as a study of data analysis (2021-6-21, the world)
+#COVID19 #DataScience #Python
+* New infection
+  - Brazil, UK, Russia and Indonesia continue to increase
+  - Israel shows signs of increase, Vietnam's increasing trend is remarkable
+
