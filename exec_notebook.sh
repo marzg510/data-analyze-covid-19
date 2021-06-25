@@ -9,3 +9,5 @@ jupyter nbconvert --to notebook --inplace --execute covid-19-jp-nhk-pref-latest.
 jupyter nbconvert --to notebook --inplace --execute covid-19-jp-nhk-pref-daily.ipynb --ExecutePreprocessor.timeout=1800 --allow-errors $DEBUG |& log
 jupyter nbconvert --to notebook --inplace --execute covid-19-global-daily.ipynb --ExecutePreprocessor.timeout=1800 --allow-errors $DEBUG |& log
 jupyter nbconvert --to notebook --inplace --execute covid-19-global-latest.ipynb --ExecutePreprocessor.timeout=1800 --allow-errors $DEBUG |& log
+jupyter nbconvert --to notebook --inplace --execute covid-19-owid-global-daily.ipynb --ExecutePreprocessor.timeout=1800 --allow-errors $DEBUG |& log
+
