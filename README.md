@@ -342,7 +342,9 @@
 - 死亡者数
   - https://www.mhlw.go.jp/content/death_total.csv
 - 重傷者数
-  - https://www.mhlw.go.jp/content/severe_daily.csv
+  - https://covid19.mhlw.go.jp/public/opendata/severe_cases_daily.csv
+  - old
+    - https://www.mhlw.go.jp/content/severe_daily.csv
 
 #### 国内の発生状況など(グラフ)
 

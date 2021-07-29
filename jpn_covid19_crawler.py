@@ -47,7 +47,7 @@ try:
     time.sleep(3)
     # 重傷者数
     log.info("getting severe")
-    driver.get('https://www.mhlw.go.jp/content/severe_daily.csv')
+    driver.get('https://covid19.mhlw.go.jp/public/opendata/severe_cases_daily.csv')
     time.sleep(3)
     # 入院治療等を要する者の数
     log.info("getting cases")
