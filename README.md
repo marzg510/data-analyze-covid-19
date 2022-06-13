@@ -618,3 +618,11 @@ cd COVID-19-jp
 zip 20210417.zip 20210417/*
 rm -rf 20210417
 ```
+
+
+
+## Env
+
+```
+git submodule add  https://github.com/CSSEGISandData/COVID-19.git
+```
