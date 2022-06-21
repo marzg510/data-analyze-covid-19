@@ -624,5 +624,6 @@ rm -rf 20210417
 ## Env
 
 ```
-git submodule add  https://github.com/CSSEGISandData/COVID-19.git
+git submodule add --depth 1 https://github.com/CSSEGISandData/COVID-19.git
+git submodule add --depth 1 https://github.com/owid/covid-19-data.git
 ```
