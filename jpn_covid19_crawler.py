@@ -1,6 +1,7 @@
 # coding: utf-8
 
-import logging,logging.handlers
+import logging
+import logging.handlers
 import sys
 import os
 from argparse import ArgumentParser
@@ -37,37 +38,37 @@ try:
     helper.is_save_html_with_ss = True
     driver.set_page_load_timeout(60)
 
-    # 陽性者数
-    log.info("getting pcr positive")
-    driver.get('https://www.mhlw.go.jp/content/pcr_positive_daily.csv')
+    # 新規陽性者数
+    log.info("getting newly confirmed cases")
+    driver.get('https://covid19.mhlw.go.jp/public/opendata/newly_confirmed_cases_daily.csv')
     time.sleep(3)
     # 死亡者数
     log.info("getting death")
-    driver.get('https://www.mhlw.go.jp/content/death_total.csv')
+    driver.get('https://covid19.mhlw.go.jp/public/opendata/number_of_deaths_daily.csv')
     time.sleep(3)
     # 重傷者数
     log.info("getting severe")
     driver.get('https://covid19.mhlw.go.jp/public/opendata/severe_cases_daily.csv')
     time.sleep(3)
     # 入院治療等を要する者の数
-    log.info("getting cases")
-    driver.get('https://www.mhlw.go.jp/content/cases_total.csv')
-    time.sleep(3)
+    # log.info("getting cases")
+    # driver.get('https://www.mhlw.go.jp/content/cases_total.csv')
+    # time.sleep(3)
     # 退院又は療養解除となった者の数
-    log.info("getting recovery total")
-    driver.get('https://www.mhlw.go.jp/content/recovery_total.csv')
-    time.sleep(3)
+    # log.info("getting recovery total")
+    # driver.get('https://www.mhlw.go.jp/content/recovery_total.csv')
+    # time.sleep(3)
     # PCR検査の実施件数
-    log.info("getting pcr case")
-    driver.get('https://www.mhlw.go.jp/content/pcr_case_daily.csv')
-    time.sleep(3)
+    # log.info("getting pcr case")
+    # driver.get('https://www.mhlw.go.jp/content/pcr_case_daily.csv')
+    # time.sleep(3)
     # 発生状況
-    log.info("getting current_situation")
-    driver.get('https://www.mhlw.go.jp/content/current_situation.csv')
-    time.sleep(3)
+    # log.info("getting current_situation")
+    # driver.get('https://www.mhlw.go.jp/content/current_situation.csv')
+    # time.sleep(3)
     # 都道府県別
-    log.info("getting prefectures daily")
-    driver.get('https://www3.nhk.or.jp/n-data/opendata/coronavirus/nhk_news_covid19_prefectures_daily_data.csv')
+    # log.info("getting prefectures daily")
+    # driver.get('https://www3.nhk.or.jp/n-data/opendata/coronavirus/nhk_news_covid19_prefectures_daily_data.csv')
     time.sleep(3)
 
 except Exception as e:
