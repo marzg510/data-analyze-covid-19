@@ -137,3 +137,5 @@ dmypy.json
 COVID-19-jp-pref*/
 *.html
 *.nbconvert.ipynb
+COVID-19/
+covid-19-data/
