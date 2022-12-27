@@ -624,10 +624,11 @@ rm -rf 20210417
 ## Env
 
 ```
-git submodule add --depth 1 https://github.com/CSSEGISandData/COVID-19.git
-git submodule add --depth 1 https://github.com/owid/covid-19-data.git
-
-
 git clone --filter=tree:0 https://github.com/CSSEGISandData/COVID-19.git
 git clone --filter=tree:0 https://github.com/owid/covid-19-data.git
+```
+
+## Delete Old Logs
+```
+find . -name *.log -type f -mtime +45 -delete
 ```
