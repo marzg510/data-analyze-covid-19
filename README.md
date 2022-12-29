@@ -197,6 +197,7 @@ rm -rf 20210417
 ```
 git clone --filter=tree:0 https://github.com/CSSEGISandData/COVID-19.git
 git clone --filter=tree:0 https://github.com/owid/covid-19-data.git
+cd COVID-19-jp && wget https://www.soumu.go.jp/main_content/000762462.xlsx && cd ..
 ```
 
 ## Delete Old Logs
