@@ -148,6 +148,10 @@
 - 鹿児島県
 - 沖縄県
 
+#### 人口
+
+- https://www.soumu.go.jp/main_sosiki/jichi_gyousei/daityo/jinkou_jinkoudoutai-setaisuu.html
+- https://www.soumu.go.jp/main_content/000762462.xlsx
 
 #### COVID-19 感染予測 (日本版) google
 
